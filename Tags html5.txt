@@ -1,0 +1,47 @@
+TAGS html
+
+TAGS utilizadas no (<head>
+
+<title></title> Título do Site
+METAS TAGS ( são tags que não aparece para o usuário, usada para definir algo no navegador)
+<meta property="og:description" content=""> Usada na descrição do Site
+<meta name="keywords" content="">  Mecanismo de pesquisa do site
+<meta name="author" content="" O criador do Site "seu nome"
+
+</head>
+  
+Tags de corpo
+<h1></h1> Título
+<h2></h2> Subtítulo
+Obs: vai do h1 até h6...
+<p1></p1> Parágrafo 
+<img src=""> inserir imagens
+
+Tags de formatação de texto html\\\\\
+|-----------------------------------------------\\\
+|<b></b> Negrito                                \\\
+|<strong></strong> Negrito (enfâse)             \\\
+|<i></i> Italico                                \\\
+|<u></u> - sublinhado                           \\\
+|<hr> Linha de divisao                          \\\
+|<br> - Pular uma linha (quebra de linha)       \\\
+|<small></small> - texto pequeno                \\\
+|<del></del> - Riscado (deletado)               \\\
+|<sup></sup> Superior (ex: numero exponencial)  \\\ 
+|<sub></sub> Inferior                           \\\
+|<mark></mark> Marcação (destaca texto)         \\\
+|-----------------------------------------------\\\
+
+Tags de citação\
+<abbr title=""></abbr> Abreveatura
+<address></address> Endereço (rua, email,url..)
+<cite></cite> Obras literarias
+<q></q> Citação curta
+<blockquote></blockquote> Citaçap de uma parte do texto 
+<bdo dir="rtl or ltl"></bdo> Definir direção do texto (direita ou esquerda)-(mais utilizado em Asiáticas!)
+<!----> Tag de comentário (utilizada para comentar no script obs: não aparecerá no site)
+
+Link Absoluto (URL ABSOLUTA)-(Hyper links).
+<a href="Link do site">ir para o site<a>  Hyper Link
+<a href="link do site" target="_blank">ir para o site<a> hyper link (target"**"- não fechar a pagina)
+
